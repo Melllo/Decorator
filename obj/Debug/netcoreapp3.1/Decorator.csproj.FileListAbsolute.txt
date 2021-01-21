@@ -1,0 +1,13 @@
+E:\C#\Decorator\obj\Debug\netcoreapp3.1\Decorator.csprojAssemblyReference.cache
+E:\C#\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfoInputs.cache
+E:\C#\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfo.cs
+E:\C#\Decorator\obj\Debug\netcoreapp3.1\Decorator.csproj.CoreCompileInputs.cache
+E:\C#\Decorator\bin\Debug\netcoreapp3.1\Decorator.exe
+E:\C#\Decorator\bin\Debug\netcoreapp3.1\Decorator.deps.json
+E:\C#\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.json
+E:\C#\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.dev.json
+E:\C#\Decorator\bin\Debug\netcoreapp3.1\Decorator.dll
+E:\C#\Decorator\bin\Debug\netcoreapp3.1\Decorator.pdb
+E:\C#\Decorator\obj\Debug\netcoreapp3.1\Decorator.dll
+E:\C#\Decorator\obj\Debug\netcoreapp3.1\Decorator.pdb
+E:\C#\Decorator\obj\Debug\netcoreapp3.1\Decorator.genruntimeconfig.cache
